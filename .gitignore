@@ -1,2 +1,7 @@
 pst/
 .ipynb*
+Sleuth2_2.0-5.tar.gz
+Sleuth2/
+!Sleuth2/data/case0302.rda
+!Sleuth2/man/case0302.Rd
+
